@@ -19,13 +19,9 @@ Jag studerar systemutveckling med fokus på C# och .NET. Jag bygger CRUD-applika
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPBenitez&layout=compact&theme=radical)
+
 ## 📫 Kontakta mig:
 - 🌐 Portfolio: [davidbenitez.dev](https://davidpbenitez.github.io/your-repo-name)
 - 💼 LinkedIn: [David Benitez](https://linkedin.com/in/david-p-b51685248)
 - 📧 Email: davidpersson094@gmail.com
-
-## 📊 GitHub Stats:
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidPBenitez&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPBenitez&layout=compact&theme=radical)
