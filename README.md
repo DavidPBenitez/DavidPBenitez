@@ -1,14 +1,14 @@
-## Hej,
+## Hey, my name is David!
 
-## Fullstack Student | .Net, C# & React
+## Fullstack Student | .Net, C# & ReactJS.
 Jag studerar systemutveckling med fokus på C# och .NET. Jag bygger CRUD-applikationer, webbutveckling och lär mig moderna teknologier.
 
-## Var mitt fokus ligger:
-- 📚 **LIA** — Söker praktikplats för att växa som utvecklare.
-- 💻 **Studier** — Fördjupar mig i .NET, React och Docker.
-- 🚀 **Projekt** — Bygga små projekt såsom för att solidifiera vad jag lär mig.
+## What i currently do:
+- 📚 **LIA** — Seeking LIA-Internships relevant to Software engineering in the .Net-Framework.
+- 💻 **Studies** — Delve deeper into .Net-fullstack developement.
+- 🚀 **Projects** — Build projects that will solidify my knowledge.
 
-## 🛠️ Tech Stack:
+#Tech Stack:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -21,7 +21,7 @@ Jag studerar systemutveckling med fokus på C# och .NET. Jag bygger CRUD-applika
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPBenitez&layout=compact&theme=radical)
 
-## 📫 Kontakta mig:
+## 📫 Contact & Website:
 - 🌐 Portfolio: [davidbenitez.dev](https://davidpbenitez.github.io/your-repo-name)
 - 💼 LinkedIn: [David Benitez](https://linkedin.com/in/david-p-b51685248)
 - 📧 Email: davidpersson094@gmail.com
