@@ -3,7 +3,7 @@
 ## Fullstack Student | .Net, C# & ReactJS.
 I am studying .Net-Fullstack Developement at Teknikhögskolan in Gävle, Sweden.
 
-## What im currently up to:
+## What I'm currently up to:
 - 📚 **LIA** — Seeking LIA-Internships relevant to Software engineering in the .Net-Framework.
 - 💻 **Studies** — Diving deeper into my studies.
 - 🚀 **Projects** — Building projects that will help solidify my knowledge.
