@@ -23,4 +23,4 @@ I am studying .Net-Fullstack Developement at Teknikhögskolan in Gävle, Sweden.
 ## 📫 Contact & Website:
 - 🌐 Portfolio: [davidbenitez.dev](https://davidpbenitez.github.io/DavidBenitez.dev)
 - 💼 LinkedIn: [David Benitez](https://linkedin.com/in/david-p-b51685248)
-- 📧 Email: davidpersson094@gmail.com
+- 📧 Email: davidpersson094@gmail.com ( Swedish )
