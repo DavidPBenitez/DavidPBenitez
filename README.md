@@ -9,8 +9,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPBenitez&layout=compact&theme=radical)
-
 ## 📫 Contact & Website:
 - 🌐 Portfolio: [davidbenitez.dev](https://davidpbenitez.github.io/DavidBenitez.dev) ( Swedish )
 - 💼 LinkedIn: [David Benitez](https://linkedin.com/in/david-p-b51685248)
