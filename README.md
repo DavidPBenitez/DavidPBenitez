@@ -1,13 +1,6 @@
 ## Hi, i'm David!
 
 ## Fullstack Student | .Net, C# & ReactJS.
-I am studying .Net-Fullstack Developement at Teknikhögskolan in Gävle, Sweden.
-
-## What I'm currently up to:
-- 📚 **LIA** — Seeking LIA-Internships relevant to Software engineering in the .Net-Framework.
-- 💻 **Studies** — Diving deeper into my studies.
-- 🚀 **Projects** — Building projects that will help solidify my knowledge.
-
 ## Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
